@@ -1,0 +1,8 @@
+name: goenrich
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.11
+  - python-goenrichment=1.0.3
