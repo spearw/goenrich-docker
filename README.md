@@ -2,7 +2,7 @@
 
 # goenrich-docker
 
-[GOenrich](https://github.com/ralatsdc/goenrich.git) This package execute GO enrichment analysis froma list of gene names using a precomputed database. The GO terms are analyze using a hypergeometric test. goenrich-docker provides Docker files and GitHub Action workflows for building and publishing a Docker image so that GOenrich can be used in Nextflow workflows.
+[GOenrich](https://pypi.org/project/goenrichment/) This package execute GO enrichment analysis from a list of gene names using a precomputed database. The GO terms are analyze using a hypergeometric test. goenrich-docker provides Docker files and GitHub Action workflows for building and publishing a Docker image so that GOenrich can be used in Nextflow workflows.
 
 ### Build
 
