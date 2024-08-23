@@ -14,8 +14,8 @@ WORKDIR /root
 # Install the conda environment
 ARG ENV_NAME=goenrich
 COPY environment.yaml /
-RUN conda env create --quiet --name ${ENV_NAME} --file /environment.yaml -y
-RUN conda clean -ay
+RUN conda env create --quiet --name ${ENV_NAME} --file /environment.yaml -y && \
+  conda clean -a
 
 # Add conda installation and root dirs to PATH (instead of doing
 # 'conda activate' or specifiying path to tool)

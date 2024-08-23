@@ -1,8 +1,8 @@
-[![Build a Docker image](https://github.com/spearw/goenrich-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/spearw/goenrich-docker/actions/workflows/docker-image.yml)[![Build and push a Docker image](https://github.com/spearw/goenrich-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/ralatsdc/goenrich-docker/actions/workflows/docker-publish.yml)
+[![Build a Docker image](https://github.com/spearw/goenrich-docker/actions/workflows/docker-image.yml/badge.svg)](https://github.com/spearw/goenrich-docker/actions/workflows/docker-image.yml)[![Build and push a Docker image](https://github.com/spearw/goenrich-docker/actions/workflows/docker-publish.yml/badge.svg)](https://github.com/spearw/goenrich-docker/actions/workflows/docker-publish.yml)
 
 # goenrich-docker
 
-[GOenrich](https://pypi.org/project/goenrichment/) This package execute GO enrichment analysis from a list of gene names using a precomputed database. The GO terms are analyze using a hypergeometric test. goenrich-docker provides Docker files and GitHub Action workflows for building and publishing a Docker image so that GOenrich can be used in Nextflow workflows.
+[GOEnrich](https://pypi.org/project/goenrichment/) This package execute GO enrichment analysis from a list of gene names using a precomputed database. The GO terms are analyze using a hypergeometric test. goenrich-docker provides Docker files and GitHub Action workflows for building and publishing a Docker image so that GOEnrich can be used in Nextflow workflows.
 
 ### Build
 
@@ -10,7 +10,7 @@ To build your image from the command line:
 * You can do this on [Google shell](https://shell.cloud.google.com) since docker is installed and available.
 
 ```bash
-docker build --platform linux/amd64 -t goenrich:latest .
+docker build --platform linux/amd64 -t spearw/goenrich:latest .
 ```
 
 ### Test
@@ -18,7 +18,7 @@ docker build --platform linux/amd64 -t goenrich:latest .
 To test this tool from the command line:
 
 ```bash
-docker run -it goenrich:latest snakemake -h
+docker run -it spearw/goenrich:latest goenrich -h
 ```
 
 Disclaimer
