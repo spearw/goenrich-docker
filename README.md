@@ -18,7 +18,7 @@ docker build --platform linux/amd64 -t spearw/goenrich:latest .
 To test this tool from the command line:
 
 ```bash
-docker run -it spearw/goenrich:latest goenrich -h
+docker run -it -w /root --platform linux/amd64 spearw/goenrich:latest python /root/test.py
 ```
 
 Disclaimer

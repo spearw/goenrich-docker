@@ -17,6 +17,9 @@ COPY environment.yaml /
 RUN conda env create --quiet --name ${ENV_NAME} --file /environment.yaml -y && \
   conda clean -a
 
+# Copy in tests
+COPY tests /root
+
 # Add conda installation and root dirs to PATH (instead of doing
 # 'conda activate' or specifiying path to tool)
 ENV PATH="/opt/conda/envs/$ENV_NAME/bin:/root:$PATH"

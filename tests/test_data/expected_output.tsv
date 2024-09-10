@@ -1,0 +1,509 @@
+term	name	namespace	depth	k	n	p	q	-1.0log(q)	accepted
+GO:0042311	vasodilation	biological_process	8	1	35	0.03118169655938853	0.049729924899503626	1.3033821966245174	True
+GO:0010165	response to X-ray	biological_process	5	1	35	0.03118169655938853	0.049729924899503626	1.3033821966245174	True
+GO:1904591	positive regulation of protein import	biological_process	6	1	35	0.03118169655938853	0.049729924899503626	1.3033821966245174	True
+GO:0042169	SH2 domain binding	molecular_function	4	1	34	0.030304055418878668	0.048688890524580565	1.3125701216246184	True
+GO:0021884	forebrain neuron development	biological_process	6	1	34	0.030304055418878668	0.048688890524580565	1.3125701216246184	True
+GO:0021955	central nervous system neuron axonogenesis	biological_process	6	1	34	0.030304055418878668	0.048688890524580565	1.3125701216246184	True
+GO:0051145	smooth muscle cell differentiation	biological_process	5	1	34	0.030304055418878668	0.048688890524580565	1.3125701216246184	True
+GO:1900026	positive regulation of substrate adhesion-dependent cell spreading	biological_process	6	1	34	0.030304055418878668	0.048688890524580565	1.3125701216246184	True
+GO:0044068	modulation by symbiont of host cellular process	biological_process	5	1	34	0.030304055418878668	0.048688890524580565	1.3125701216246184	True
+GO:0035115	embryonic forelimb morphogenesis	biological_process	6	1	33	0.029425641337579238	0.0478097662257854	1.3204833798578526	True
+GO:0036003	positive regulation of transcription from RNA polymerase II promoter in response to stress	biological_process	6	1	33	0.029425641337579238	0.0478097662257854	1.3204833798578526	True
+GO:0051491	positive regulation of filopodium assembly	biological_process	6	1	33	0.029425641337579238	0.0478097662257854	1.3204833798578526	True
+GO:0060325	face morphogenesis	biological_process	3	1	33	0.029425641337579238	0.0478097662257854	1.3204833798578526	True
+GO:0051233	spindle midzone	cellular_component	4	1	33	0.029425641337579238	0.0478097662257854	1.3204833798578526	True
+GO:0032689	negative regulation of interferon-gamma production	biological_process	6	1	32	0.028546453654225444	0.04682050921318037	1.3295638672888657	True
+GO:0045745	positive regulation of G protein-coupled receptor signaling pathway	biological_process	6	1	32	0.028546453654225444	0.04682050921318037	1.3295638672888657	True
+GO:0097192	extrinsic apoptotic signaling pathway in absence of ligand	biological_process	4	1	32	0.028546453654225444	0.04682050921318037	1.3295638672888657	True
+GO:0010800	positive regulation of peptidyl-threonine phosphorylation	biological_process	9	1	32	0.028546453654225444	0.04682050921318037	1.3295638672888657	True
+GO:0007204	positive regulation of cytosolic calcium ion concentration	biological_process	9	2	290	0.028312159398597807	0.0467907061816521	1.3298404002346125	True
+GO:0071542	dopaminergic neuron differentiation	biological_process	5	1	31	0.02766649170700333	0.04589881574380245	1.3381985197474173	True
+GO:1905564	positive regulation of vascular endothelial cell proliferation	biological_process	8	1	31	0.02766649170700333	0.04589881574380245	1.3381985197474173	True
+GO:0060317	cardiac epithelial to mesenchymal transition	biological_process	5	1	31	0.02766649170700333	0.04589881574380245	1.3381985197474173	True
+GO:1903589	positive regulation of blood vessel endothelial cell proliferation involved in sprouting angiogenesis	biological_process	8	1	31	0.02766649170700333	0.04589881574380245	1.3381985197474173	True
+GO:0035116	embryonic hindlimb morphogenesis	biological_process	6	1	31	0.02766649170700333	0.04589881574380245	1.3381985197474173	True
+GO:0090257	regulation of muscle system process	biological_process	5	2	283	0.02706558875245835	0.04529236687851001	1.3439749834588557	True
+GO:0007176	regulation of epidermal growth factor-activated receptor activity	biological_process	4	1	30	0.026785754833549547	0.04486743459546211	1.3480687615987712	True
+GO:0050650	chondroitin sulfate proteoglycan biosynthetic process	biological_process	7	1	30	0.026785754833549547	0.04486743459546211	1.3480687615987712	True
+GO:1900745	positive regulation of p38MAPK cascade	biological_process	8	1	30	0.026785754833549547	0.04486743459546211	1.3480687615987712	True
+GO:0014002	astrocyte development	biological_process	5	1	30	0.026785754833549547	0.04486743459546211	1.3480687615987712	True
+GO:1904646	cellular response to amyloid-beta	biological_process	6	1	30	0.026785754833549547	0.04486743459546211	1.3480687615987712	True
+GO:0034113	heterotypic cell-cell adhesion	biological_process	4	1	29	0.025904242370950663	0.04372918887571788	1.3592285782249327	True
+GO:0035025	positive regulation of Rho protein signal transduction	biological_process	9	1	29	0.025904242370950663	0.04372918887571788	1.3592285782249327	True
+GO:0018146	keratan sulfate biosynthetic process	biological_process	5	1	29	0.025904242370950663	0.04372918887571788	1.3592285782249327	True
+GO:0003203	endocardial cushion morphogenesis	biological_process	5	1	29	0.025904242370950663	0.04372918887571788	1.3592285782249327	True
+GO:0034368	protein-lipid complex remodeling	biological_process	5	1	28	0.02502195365574294	0.0426555351690421	1.3700246048857951	True
+GO:2000463	positive regulation of excitatory postsynaptic potential	biological_process	5	1	28	0.02502195365574294	0.0426555351690421	1.3700246048857951	True
+GO:0048710	regulation of astrocyte differentiation	biological_process	9	1	28	0.02502195365574294	0.0426555351690421	1.3700246048857951	True
+GO:0070371	ERK1 and ERK2 cascade	biological_process	5	1	28	0.02502195365574294	0.0426555351690421	1.3700246048857951	True
+GO:0010288	response to lead ion	biological_process	5	1	28	0.02502195365574294	0.0426555351690421	1.3700246048857951	True
+GO:0003148	outflow tract septum morphogenesis	biological_process	4	1	28	0.02502195365574294	0.0426555351690421	1.3700246048857951	True
+GO:0048169	regulation of long-term neuronal synaptic plasticity	biological_process	5	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:0042481	regulation of odontogenesis	biological_process	6	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:0006706	steroid catabolic process	biological_process	5	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:0005158	insulin receptor binding	molecular_function	3	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:0071295	cellular response to vitamin	biological_process	5	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:1904019	epithelial cell apoptotic process	biological_process	5	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:0044062	regulation of excretion	biological_process	5	1	27	0.02413888802391179	0.04180855405741522	1.3787348521995166	True
+GO:0071356	cellular response to tumor necrosis factor	biological_process	6	2	264	0.023799745061903507	0.04167963442590179	1.380076098909824	True
+GO:0019433	triglyceride catabolic process	biological_process	7	1	26	0.02325504481089128	0.04097035830173276	1.3875302379559384	True
+GO:0060351	cartilage development involved in endochondral bone morphogenesis	biological_process	5	1	26	0.02325504481089128	0.04097035830173276	1.3875302379559384	True
+GO:0010996	response to auditory stimulus	biological_process	4	1	26	0.02325504481089128	0.04097035830173276	1.3875302379559384	True
+GO:2000406	positive regulation of T cell migration	biological_process	7	1	26	0.02325504481089128	0.04097035830173276	1.3875302379559384	True
+GO:0001972	retinoic acid binding	molecular_function	5	1	26	0.02325504481089128	0.04097035830173276	1.3875302379559384	True
+GO:1900181	negative regulation of protein localization to nucleus	biological_process	5	1	26	0.02325504481089128	0.04097035830173276	1.3875302379559384	True
+GO:0005031	tumor necrosis factor-activated receptor activity	molecular_function	5	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:2000310	regulation of NMDA receptor activity	biological_process	5	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:0030206	chondroitin sulfate biosynthetic process	biological_process	5	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:0000185	activation of MAPKKK activity	biological_process	9	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:0031210	phosphatidylcholine binding	molecular_function	3	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:0098581	detection of external biotic stimulus	biological_process	4	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:0150076	neuroinflammatory response	biological_process	5	1	25	0.022370423351563792	0.040026418641434386	1.3976532665984596	True
+GO:0016525	negative regulation of angiogenesis	biological_process	6	2	252	0.02182800870865163	0.03950481826894945	1.4033499317152762	True
+GO:0043395	heparan sulfate proteoglycan binding	molecular_function	3	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0043950	positive regulation of cAMP-mediated signaling	biological_process	7	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0007413	axonal fasciculation	biological_process	4	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0048745	smooth muscle tissue development	biological_process	5	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0010971	positive regulation of G2/M transition of mitotic cell cycle	biological_process	8	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0060396	growth hormone receptor signaling pathway	biological_process	6	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0031528	microvillus membrane	cellular_component	4	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0106030	neuron projection fasciculation	biological_process	6	1	24	0.02148502298025955	0.0389247487466627	1.4097741820556704	True
+GO:0090280	positive regulation of calcium ion import	biological_process	7	1	23	0.020598843030756125	0.038075983062187416	1.4193488750445298	True
+GO:0032753	positive regulation of interleukin-4 production	biological_process	6	1	23	0.020598843030756125	0.038075983062187416	1.4193488750445298	True
+GO:0062009	secondary palate development	biological_process	4	1	23	0.020598843030756125	0.038075983062187416	1.4193488750445298	True
+GO:0003215	cardiac right ventricle morphogenesis	biological_process	5	1	23	0.020598843030756125	0.038075983062187416	1.4193488750445298	True
+GO:0060117	auditory receptor cell development	biological_process	6	1	23	0.020598843030756125	0.038075983062187416	1.4193488750445298	True
+GO:0031258	lamellipodium membrane	cellular_component	4	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:2000678	negative regulation of transcription regulatory region DNA binding	biological_process	6	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0032928	regulation of superoxide anion generation	biological_process	7	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0090026	positive regulation of monocyte chemotaxis	biological_process	7	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0031639	plasminogen activation	biological_process	7	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0023019	signal transduction involved in regulation of gene expression	biological_process	3	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0097150	neuronal stem cell population maintenance	biological_process	3	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0019432	triglyceride biosynthetic process	biological_process	6	1	22	0.019711882836278054	0.036829537294966117	1.4338037373358357	True
+GO:0016327	apicolateral plasma membrane	cellular_component	3	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:0048019	receptor antagonist activity	molecular_function	4	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:0002052	positive regulation of neuroblast proliferation	biological_process	7	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:1900116	extracellular negative regulation of signal transduction	biological_process	6	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:0005802	trans-Golgi network	cellular_component	5	2	233	0.018854829133658955	0.035925813046751714	1.44459339444712	True
+GO:0043281	regulation of cysteine-type endopeptidase activity involved in apoptotic process	biological_process	7	2	233	0.018854829133658955	0.035925813046751714	1.44459339444712	True
+GO:0055070	copper ion homeostasis	biological_process	9	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:2000737	negative regulation of stem cell differentiation	biological_process	6	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:0071404	cellular response to low-density lipoprotein particle stimulus	biological_process	4	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:0007597	blood coagulation, intrinsic pathway	biological_process	3	1	21	0.018824141729496324	0.035925813046751714	1.44459339444712	True
+GO:0042832	defense response to protozoan	biological_process	4	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:0038191	neuropilin binding	molecular_function	4	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:0032793	positive regulation of CREB transcription factor activity	biological_process	5	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:0008191	metalloendopeptidase inhibitor activity	molecular_function	6	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:1900273	positive regulation of long-term synaptic potentiation	biological_process	5	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:0048843	negative regulation of axon extension involved in axon guidance	biological_process	7	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:0061440	kidney vasculature development	biological_process	5	1	20	0.017935619042528016	0.03486474992329801	1.4576134455406986	True
+GO:0045780	positive regulation of bone resorption	biological_process	4	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0090190	positive regulation of branching involved in ureteric bud morphogenesis	biological_process	6	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:2000811	negative regulation of anoikis	biological_process	8	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0005883	neurofilament	cellular_component	4	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0007097	nuclear migration	biological_process	4	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0046852	positive regulation of bone remodeling	biological_process	6	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:2000251	positive regulation of actin cytoskeleton reorganization	biological_process	7	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0050431	transforming growth factor beta binding	molecular_function	4	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0001774	microglial cell activation	biological_process	4	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0048339	paraxial mesoderm development	biological_process	5	1	19	0.01704631410693579	0.03362666974170021	1.4733161414400247	True
+GO:0033033	negative regulation of myeloid cell apoptotic process	biological_process	8	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0031290	retinal ganglion cell axon guidance	biological_process	5	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0045653	negative regulation of megakaryocyte differentiation	biological_process	7	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0031065	positive regulation of histone deacetylation	biological_process	9	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0007342	fusion of sperm to egg plasma membrane involved in single fertilization	biological_process	3	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0005021	vascular endothelial growth factor-activated receptor activity	molecular_function	6	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0048569	post-embryonic animal organ development	biological_process	4	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0032930	positive regulation of superoxide anion generation	biological_process	7	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:1905049	negative regulation of metallopeptidase activity	biological_process	7	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0016045	detection of bacterium	biological_process	4	1	18	0.016156226253727462	0.0325000974116794	1.4881153373198508	True
+GO:0030224	monocyte differentiation	biological_process	6	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0045056	transcytosis	biological_process	5	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:1902514	regulation of calcium ion transmembrane transport via high voltage-gated calcium channel	biological_process	9	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0030889	negative regulation of B cell proliferation	biological_process	8	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0042834	peptidoglycan binding	molecular_function	4	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0034392	negative regulation of smooth muscle cell apoptotic process	biological_process	9	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0031527	filopodium membrane	cellular_component	4	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0010888	negative regulation of lipid storage	biological_process	4	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:0051044	positive regulation of membrane protein ectodomain proteolysis	biological_process	7	1	17	0.015265354813355546	0.03128946099021516	1.5046019181894255	True
+GO:1901215	negative regulation of neuron death	biological_process	6	2	205	0.014818626213741064	0.03103489794703691	1.5081496783794897	True
+GO:0046777	protein autophosphorylation	biological_process	7	2	204	0.014682323568984678	0.030823981116947227	1.511111270047746	True
+GO:1901213	regulation of transcription from RNA polymerase II promoter involved in heart development	biological_process	5	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0035253	ciliary rootlet	cellular_component	3	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0051818	disruption of cells of other organism involved in symbiotic interaction	biological_process	5	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0043117	positive regulation of vascular permeability	biological_process	4	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0042359	vitamin D metabolic process	biological_process	4	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0004465	lipoprotein lipase activity	molecular_function	6	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0106003	amyloid-beta complex	cellular_component	2	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0032495	response to muramyl dipeptide	biological_process	4	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:1902950	regulation of dendritic spine maintenance	biological_process	6	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0034362	low-density lipoprotein particle	cellular_component	3	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0061298	retina vasculature development in camera-type eye	biological_process	4	1	16	0.01437369911571686	0.030249388661508628	1.5192833979905616	True
+GO:0048681	negative regulation of axon regeneration	biological_process	6	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:2000105	positive regulation of DNA-dependent DNA replication	biological_process	8	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0010739	positive regulation of protein kinase A signaling	biological_process	7	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0003417	growth plate cartilage development	biological_process	5	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0050930	induction of positive chemotaxis	biological_process	7	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0045602	negative regulation of endothelial cell differentiation	biological_process	7	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0050651	dermatan sulfate proteoglycan biosynthetic process	biological_process	7	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0006878	cellular copper ion homeostasis	biological_process	8	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0043517	positive regulation of DNA damage response, signal transduction by p53 class mediator	biological_process	6	1	15	0.01348125849015198	0.029077882571535776	1.5364372216430837	True
+GO:0045651	positive regulation of macrophage differentiation	biological_process	8	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0035729	cellular response to hepatocyte growth factor stimulus	biological_process	6	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0031089	platelet dense granule lumen	cellular_component	5	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0030207	chondroitin sulfate catabolic process	biological_process	5	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:1900025	negative regulation of substrate adhesion-dependent cell spreading	biological_process	6	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0072330	monocarboxylic acid biosynthetic process	biological_process	6	2	188	0.012577218972464565	0.027633044212611573	1.5585712681087474	True
+GO:0090192	regulation of glomerulus development	biological_process	6	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0036445	neuronal stem cell division	biological_process	5	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0001967	suckling behavior	biological_process	3	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0007172	signal complex assembly	biological_process	5	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0048711	positive regulation of astrocyte differentiation	biological_process	9	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:1902993	positive regulation of amyloid precursor protein catabolic process	biological_process	7	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0097449	astrocyte projection	cellular_component	5	1	14	0.012588032265444879	0.027633044212611573	1.5585712681087474	True
+GO:0021559	trigeminal nerve development	biological_process	5	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:0048012	hepatocyte growth factor receptor signaling pathway	biological_process	6	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:2001053	regulation of mesenchymal cell apoptotic process	biological_process	7	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:0031994	insulin-like growth factor I binding	molecular_function	5	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:2001044	regulation of integrin-mediated signaling pathway	biological_process	5	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:1902287	semaphorin-plexin signaling pathway involved in axon guidance	biological_process	5	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:0010745	negative regulation of macrophage derived foam cell differentiation	biological_process	6	1	13	0.011694019769822433	0.02640683473446213	1.5782836525507618	True
+GO:0001886	endothelial cell morphogenesis	biological_process	6	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:1900272	negative regulation of long-term synaptic potentiation	biological_process	4	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0042340	keratan sulfate catabolic process	biological_process	5	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0038007	netrin-activated signaling pathway	biological_process	4	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0072017	distal tubule development	biological_process	6	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0035988	chondrocyte proliferation	biological_process	2	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0048739	cardiac muscle fiber development	biological_process	6	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0050786	RAGE receptor binding	molecular_function	4	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0033130	acetylcholine receptor binding	molecular_function	4	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0030208	dermatan sulfate biosynthetic process	biological_process	5	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0003198	epithelial to mesenchymal transition involved in endocardial cushion formation	biological_process	4	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:2001223	negative regulation of neuron migration	biological_process	7	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0003184	pulmonary valve morphogenesis	biological_process	4	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0048671	negative regulation of collateral sprouting	biological_process	6	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:1902004	positive regulation of amyloid-beta formation	biological_process	7	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0003177	pulmonary valve development	biological_process	5	1	12	0.010799220330954002	0.02517395641078376	1.599048524128152	True
+GO:0072070	loop of Henle development	biological_process	6	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0031232	extrinsic component of external side of plasma membrane	cellular_component	4	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0051852	disruption by host of symbiont cells	biological_process	4	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0070820	tertiary granule	cellular_component	4	2	166	0.009921290704852401	0.024134375703376912	1.617363930824372	True
+GO:0016322	neuron remodeling	biological_process	5	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0033690	positive regulation of osteoblast proliferation	biological_process	6	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0061365	positive regulation of triglyceride lipase activity	biological_process	7	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0021561	facial nerve development	biological_process	5	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0002431	Fc receptor mediated stimulatory signaling pathway	biological_process	5	2	163	0.009581078591863298	0.024134375703376912	1.617363930824372	True
+GO:0002116	semaphorin receptor complex	cellular_component	3	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0031094	platelet dense tubular network	cellular_component	4	1	11	0.009903633275950967	0.024134375703376912	1.617363930824372	True
+GO:0038094	Fc-gamma receptor signaling pathway	biological_process	6	2	166	0.009921290704852401	0.024134375703376912	1.617363930824372	True
+GO:0038096	Fc-gamma receptor signaling pathway involved in phagocytosis	biological_process	4	2	161	0.00935724793814106	0.0236940839603221	1.625360076948438	True
+GO:0002091	negative regulation of receptor internalization	biological_process	6	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:0043129	surfactant homeostasis	biological_process	5	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:0051006	positive regulation of lipoprotein lipase activity	biological_process	7	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:0006930	substrate-dependent cell migration, cell extension	biological_process	5	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:0072015	glomerular visceral epithelial cell development	biological_process	6	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:0048845	venous blood vessel morphogenesis	biological_process	5	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:1990000	amyloid fibril formation	biological_process	4	1	10	0.009007257931366275	0.022908327073607033	1.640006624875599	True
+GO:0044309	neuron spine	cellular_component	4	2	155	0.008700145293493717	0.022659626538843784	1.6447472521714703	True
+GO:1902652	secondary alcohol metabolic process	biological_process	4	2	150	0.008169180486516698	0.021437910004010487	1.668817556571099	True
+GO:0061549	sympathetic ganglion development	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0071316	cellular response to nicotine	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0051873	killing by host of symbiont cells	biological_process	4	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0071394	cellular response to testosterone stimulus	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0061314	Notch signaling involved in heart development	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0090647	modulation of age-related behavioral decline	biological_process	3	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0034371	chylomicron remodeling	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0021562	vestibulocochlear nerve development	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0036010	protein localization to endosome	biological_process	6	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0150078	positive regulation of neuroinflammatory response	biological_process	7	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0042473	outer ear morphogenesis	biological_process	4	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0140058	neuron projection arborization	biological_process	7	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:1903980	positive regulation of microglial cell activation	biological_process	7	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0061308	cardiac neural crest cell development involved in heart development	biological_process	6	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0021612	facial nerve structural organization	biological_process	4	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0034372	very-low-density lipoprotein particle remodeling	biological_process	5	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0072124	regulation of glomerular mesangial cell proliferation	biological_process	6	1	9	0.008110093623193992	0.021315147428485576	1.6713116591624584	True
+GO:0046887	positive regulation of hormone secretion	biological_process	5	2	141	0.007251992381753304	0.019898521829192745	1.7011791841565502	True
+GO:0043184	vascular endothelial growth factor receptor 2 binding	molecular_function	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:1902965	regulation of protein localization to early endosome	biological_process	7	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:2000542	negative regulation of gastrulation	biological_process	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:2000662	regulation of interleukin-5 secretion	biological_process	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:2000587	negative regulation of platelet-derived growth factor receptor-beta signaling pathway	biological_process	7	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0097084	vascular smooth muscle cell development	biological_process	5	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0042661	regulation of mesodermal cell fate specification	biological_process	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:1902282	voltage-gated potassium channel activity involved in ventricular cardiac muscle cell action potential repolarization	molecular_function	8	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:1902949	positive regulation of tau-protein kinase activity	biological_process	8	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0015272	ATP-activated inward rectifier potassium channel activity	molecular_function	8	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0051045	negative regulation of membrane protein ectodomain proteolysis	biological_process	7	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0090037	positive regulation of protein kinase C signaling	biological_process	7	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0005641	nuclear envelope lumen	cellular_component	4	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0018108	peptidyl-tyrosine phosphorylation	biological_process	7	3	432	0.00694817994750138	0.019859182703238273	1.7020386286894522	True
+GO:0010596	negative regulation of endothelial cell migration	biological_process	6	2	137	0.006860438799070634	0.019859182703238273	1.7020386286894522	True
+GO:0021785	branchiomotor neuron axon guidance	biological_process	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0008432	JUN kinase binding	molecular_function	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0038089	positive regulation of cell migration by vascular endothelial growth factor signaling pathway	biological_process	7	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:1902966	positive regulation of protein localization to early endosome	biological_process	6	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0030879	mammary gland development	biological_process	5	2	137	0.006860438799070634	0.019859182703238273	1.7020386286894522	True
+GO:0060484	lung-associated mesenchyme development	biological_process	5	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0048846	axon extension involved in axon guidance	biological_process	5	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0021873	forebrain neuroblast division	biological_process	5	1	8	0.007212139676868865	0.019859182703238273	1.7020386286894522	True
+GO:0005925	focal adhesion	cellular_component	4	3	428	0.006773178032171644	0.019859182703238273	1.7020386286894522	True
+GO:0004867	serine-type endopeptidase inhibitor activity	molecular_function	6	2	135	0.006668408252145257	0.019608969597140213	1.7075452268336642	True
+GO:2000535	regulation of entry of bacterium into host cell	biological_process	5	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0060414	aorta smooth muscle tissue morphogenesis	biological_process	5	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0031642	negative regulation of myelination	biological_process	5	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:1900086	positive regulation of peptidyl-tyrosine autophosphorylation	biological_process	10	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0010886	positive regulation of cholesterol storage	biological_process	5	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0001783	B cell apoptotic process	biological_process	7	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0032489	regulation of Cdc42 protein signal transduction	biological_process	9	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0061156	pulmonary artery morphogenesis	biological_process	6	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0071072	negative regulation of phospholipid biosynthetic process	biological_process	7	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0032714	negative regulation of interleukin-5 production	biological_process	6	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0010890	positive regulation of sequestering of triglyceride	biological_process	5	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:1901164	negative regulation of trophoblast cell migration	biological_process	5	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0009253	peptidoglycan catabolic process	biological_process	7	1	7	0.00631339541726586	0.018756090673592574	1.726857676394602	True
+GO:0042471	ear morphogenesis	biological_process	5	2	128	0.006016125773931226	0.018673709391485455	1.7287694041591481	True
+GO:0046620	regulation of organ growth	biological_process	4	2	127	0.005925475321698466	0.018425355937489667	1.734584113770427	True
+GO:0045335	phagocytic vesicle	cellular_component	6	2	127	0.005925475321698466	0.018425355937489667	1.734584113770427	True
+GO:0045667	regulation of osteoblast differentiation	biological_process	5	2	125	0.005746085558225786	0.017996781531369004	1.74480515534915	True
+GO:0021648	vestibulocochlear nerve morphogenesis	biological_process	4	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0061312	BMP signaling pathway involved in heart development	biological_process	5	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0016199	axon midline choice point recognition	biological_process	5	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:1900223	positive regulation of amyloid-beta clearance	biological_process	5	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:1990535	neuron projection maintenance	biological_process	6	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0034363	intermediate-density lipoprotein particle	cellular_component	4	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0021637	trigeminal nerve structural organization	biological_process	4	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0034197	triglyceride transport	biological_process	6	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:1901727	positive regulation of histone deacetylase activity	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0097443	sorting endosome	cellular_component	4	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0060215	primitive hemopoiesis	biological_process	6	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0015732	prostaglandin transport	biological_process	6	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0005007	fibroblast growth factor-activated receptor activity	molecular_function	6	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:1903510	mucopolysaccharide metabolic process	biological_process	6	2	120	0.005308813731925082	0.01707979200762825	1.7675174223173493	True
+GO:0032368	regulation of lipid transport	biological_process	5	2	121	0.0053949831408440525	0.01707979200762825	1.7675174223173493	True
+GO:0050748	negative regulation of lipoprotein metabolic process	biological_process	6	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:1903223	positive regulation of oxidative stress-induced neuron death	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0009912	auditory receptor cell fate commitment	biological_process	5	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0038033	positive regulation of endothelial cell chemotaxis by VEGF-activated vascular endothelial growth factor receptor signaling pathway	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0061309	cardiac neural crest cell development involved in outflow tract morphogenesis	biological_process	4	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0051964	negative regulation of synapse assembly	biological_process	5	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0060754	positive regulation of mast cell chemotaxis	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0010966	regulation of phosphate transport	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0032914	positive regulation of transforming growth factor beta1 production	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0051124	synaptic growth at neuromuscular junction	biological_process	3	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0035473	lipase binding	molecular_function	4	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0010571	positive regulation of nuclear cell cycle DNA replication	biological_process	7	1	6	0.005413860168699716	0.01707979200762825	1.7675174223173493	True
+GO:0048593	camera-type eye morphogenesis	biological_process	6	2	114	0.004805379419870373	0.01628750911001074	1.7881453283675377	True
+GO:0007179	transforming growth factor beta receptor signaling pathway	biological_process	5	2	112	0.004642770330909247	0.015891854176155764	1.7988254286897583	True
+GO:0019960	C-X3-C chemokine binding	molecular_function	5	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0150003	regulation of spontaneous synaptic transmission	biological_process	6	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0045918	negative regulation of cytolysis	biological_process	5	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0060385	axonogenesis involved in innervation	biological_process	3	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0033138	positive regulation of peptidyl-serine phosphorylation	biological_process	9	2	109	0.004403766334054307	0.015541629418547162	1.80850345076118	True
+GO:0048248	CXCR3 chemokine receptor binding	molecular_function	7	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0051425	PTB domain binding	molecular_function	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0090080	positive regulation of MAPKKK cascade by fibroblast growth factor receptor signaling pathway	biological_process	6	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0097180	serine protease inhibitor complex	cellular_component	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0038085	vascular endothelial growth factor binding	molecular_function	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0097644	calcitonin family binding	molecular_function	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0045347	negative regulation of MHC class II biosynthetic process	biological_process	7	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0060300	regulation of cytokine activity	biological_process	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0008282	inward rectifying potassium channel	cellular_component	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0038027	apolipoprotein A-I-mediated signaling pathway	biological_process	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0032190	acrosin binding	molecular_function	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0032640	tumor necrosis factor production	biological_process	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0038132	neuregulin binding	molecular_function	4	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0061419	positive regulation of transcription from RNA polymerase II promoter in response to hypoxia	biological_process	5	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0016019	peptidoglycan receptor activity	molecular_function	5	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0060666	dichotomous subdivision of terminal units involved in salivary gland branching	biological_process	5	1	5	0.004513533254924493	0.015541629418547162	1.80850345076118	True
+GO:0005604	basement membrane	cellular_component	4	2	107	0.004247717244346856	0.015423577080102212	1.8118148917851271	True
+GO:0006024	glycosaminoglycan biosynthetic process	biological_process	6	2	107	0.004247717244346856	0.015423577080102212	1.8118148917851271	True
+GO:0042742	defense response to bacterium	biological_process	4	3	356	0.004068790879760839	0.01486739621043412	1.8277650846358533	True
+GO:1990869	cellular response to chemokine	biological_process	6	2	104	0.004018597733825896	0.014715034408005185	1.8322387180571114	True
+GO:0030175	filopodium	cellular_component	5	2	101	0.003795451785824999	0.013986643602231699	1.8542864913634254	True
+GO:0006909	phagocytosis	biological_process	5	3	344	0.003697242127930948	0.013682955909351285	1.8638200724661544	True
+GO:0048013	ephrin receptor signaling pathway	biological_process	6	2	99	0.0036500224132527104	0.013537128093690995	1.8684734616003404	True
+GO:0008745	N-acetylmuramoyl-L-alanine amidase activity	molecular_function	3	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0097491	sympathetic neuron projection guidance	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0021855	hypothalamus cell migration	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0043202	lysosomal lumen	cellular_component	5	2	97	0.003507271913126629	0.013455271067738863	1.871107548584925	True
+GO:0070326	very-low-density lipoprotein particle receptor binding	molecular_function	5	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0032571	response to vitamin K	biological_process	5	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1901166	neural crest cell migration involved in autonomic nervous system development	biological_process	5	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1990812	growth cone filopodium	cellular_component	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1990523	bone regeneration	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0061551	trigeminal ganglion development	biological_process	6	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0006710	androgen catabolic process	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0070098	chemokine-mediated signaling pathway	biological_process	5	2	97	0.003507271913126629	0.013455271067738863	1.871107548584925	True
+GO:0006990	positive regulation of transcription from RNA polymerase II promoter involved in unfolded protein response	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1990761	growth cone lamellipodium	cellular_component	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0035867	alphav-beta3 integrin-IGF-1-IGF1R complex	cellular_component	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0042492	gamma-delta T cell differentiation	biological_process	6	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1902255	positive regulation of intrinsic apoptotic signaling pathway by p53 class mediator	biological_process	8	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0097490	sympathetic neuron projection extension	biological_process	5	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0060665	regulation of branching involved in salivary gland morphogenesis by mesenchymal-epithelial signaling	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0097533	cellular stress response to acid chemical	biological_process	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0090722	receptor-receptor interaction	molecular_function	4	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1990430	extracellular matrix protein binding	molecular_function	3	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:2000546	positive regulation of endothelial cell chemotaxis to fibroblast growth factor	biological_process	7	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0021825	substrate-dependent cerebral cortex tangential migration	biological_process	5	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:1905908	positive regulation of amyloid fibril formation	biological_process	7	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0010916	negative regulation of very-low-density lipoprotein particle clearance	biological_process	6	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0061073	ciliary body morphogenesis	biological_process	3	1	4	0.0036124139991331244	0.013455271067738863	1.871107548584925	True
+GO:0051781	positive regulation of cell division	biological_process	5	2	93	0.003229846058062813	0.013100921247224338	1.8826981639993075	True
+GO:0035579	specific granule membrane	cellular_component	4	2	92	0.003162178959539094	0.012856558586670681	1.8908752667799744	True
+GO:0097530	granulocyte migration	biological_process	4	2	90	0.0030288804768596406	0.012431329350523454	1.9054824273738633	True
+GO:0005902	microvillus	cellular_component	5	2	89	0.0029632515205700494	0.012190858987238304	1.9139656922262165	True
+GO:1900222	negative regulation of amyloid-beta clearance	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0022617	extracellular matrix disassembly	biological_process	4	2	81	0.0024628675595725737	0.011258322632798313	1.9485263098029906	True
+GO:0044117	growth of symbiont in host	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0090272	negative regulation of fibroblast growth factor production	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0061107	seminal vesicle development	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0071621	granulocyte chemotaxis	biological_process	4	2	79	0.0023446630135270413	0.011258322632798313	1.9485263098029906	True
+GO:0060978	angiogenesis involved in coronary vascular morphogenesis	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0020003	symbiont-containing vacuole	cellular_component	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0043010	camera-type eye development	biological_process	6	3	308	0.0027105776777580234	0.011258322632798313	1.9485263098029906	True
+GO:0071874	cellular response to norepinephrine stimulus	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:2000666	negative regulation of interleukin-13 secretion	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0030549	acetylcholine receptor activator activity	molecular_function	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0014005	microglia development	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0014004	microglia differentiation	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0034683	integrin alphav-beta3 complex	cellular_component	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0098962	regulation of postsynaptic neurotransmitter receptor activity	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1904022	positive regulation of G protein-coupled receptor internalization	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0090427	activation of meiosis	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0048669	collateral sprouting in absence of injury	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0060230	lipoprotein lipase activator activity	molecular_function	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0021847	ventricular zone neuroblast division	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1905598	negative regulation of low-density lipoprotein receptor activity	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1990791	dorsal root ganglion development	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0035868	alphav-beta3 integrin-HMGB1 complex	cellular_component	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0035880	embryonic nail plate morphogenesis	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0035866	alphav-beta3 integrin-PKCalpha complex	cellular_component	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:2001180	negative regulation of interleukin-10 secretion	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0032827	negative regulation of natural killer cell differentiation involved in immune response	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0032824	negative regulation of natural killer cell differentiation	biological_process	8	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0061903	positive regulation of 1-phosphatidylinositol-3-kinase activity	biological_process	8	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0150020	basal dendrite arborization	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0097013	phagocytic vesicle lumen	cellular_component	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1904399	heparan sulfate binding	molecular_function	3	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1904209	positive regulation of chemokine (C-C motif) ligand 2 secretion	biological_process	8	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0035793	positive regulation of metanephric mesenchymal cell migration by platelet-derived growth factor receptor-beta signaling pathway	biological_process	8	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0038086	VEGF-activated platelet-derived growth factor receptor signaling pathway	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0036486	ventral trunk neural crest cell migration	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0050772	positive regulation of axonogenesis	biological_process	7	2	84	0.002645358285254218	0.011258322632798313	1.9485263098029906	True
+GO:0097252	oligodendrocyte apoptotic process	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0002215	defense response to nematode	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1903048	regulation of acetylcholine-gated cation channel activity	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0005588	collagen type V trimer	cellular_component	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1903463	regulation of mitotic cell cycle DNA replication	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0051714	positive regulation of cytolysis in other organism	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0002265	astrocyte activation involved in immune response	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0061890	positive regulation of astrocyte activation	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0055096	low-density lipoprotein particle mediated signaling	biological_process	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0097101	blood vessel endothelial cell fate specification	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0051563	smooth endoplasmic reticulum calcium ion homeostasis	biological_process	9	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0045715	negative regulation of low-density lipoprotein particle receptor biosynthetic process	biological_process	7	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0060948	cardiac vascular smooth muscle cell development	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0070381	endosome to plasma membrane transport vesicle	cellular_component	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0021888	hypothalamus gonadotrophin-releasing hormone neuron development	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:2000864	regulation of estradiol secretion	biological_process	5	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0038091	positive regulation of cell proliferation by VEGF-activated platelet derived growth factor receptor signaling pathway	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0042475	odontogenesis of dentin-containing tooth	biological_process	5	2	82	0.0025230078425034362	0.011258322632798313	1.9485263098029906	True
+GO:0071062	alphav-beta3 integrin-vitronectin complex	cellular_component	4	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:1903225	negative regulation of endodermal cell differentiation	biological_process	6	1	3	0.0027105017239569605	0.011258322632798313	1.9485263098029906	True
+GO:0030574	collagen catabolic process	biological_process	3	2	73	0.0020067462995900166	0.010406241290089548	1.9827061083131783	True
+GO:0071230	cellular response to amino acid stimulus	biological_process	5	2	70	0.001847241220220562	0.00972468630219457	2.0121243991974445	True
+GO:0008009	chemokine activity	molecular_function	5	2	69	0.0017954816274455693	0.00948101883760892	2.0231449905336345	True
+GO:0046934	phosphatidylinositol-4,5-bisphosphate 3-kinase activity	molecular_function	6	2	68	0.0017444284957194352	0.009239602919223431	2.0343466925997724	True
+GO:0071320	cellular response to cAMP	biological_process	5	2	60	0.001361586236142987	0.0074628713955685235	2.127094042323886	True
+GO:0001706	endoderm formation	biological_process	4	2	52	0.0010246810056561153	0.0058041206746672555	2.2362635666344954	True
+GO:2001239	regulation of extrinsic apoptotic signaling pathway in absence of ligand	biological_process	7	2	52	0.0010246810056561153	0.0058041206746672555	2.2362635666344954	True
+GO:0002283	neutrophil activation involved in immune response	biological_process	5	4	494	0.0010073851833608755	0.005796648297611417	2.236823048954783	True
+GO:0043312	neutrophil degranulation	biological_process	4	4	490	0.0009775577072711247	0.005681644124139558	2.245525972260863	True
+GO:0045747	positive regulation of Notch signaling pathway	biological_process	6	2	50	0.0009477083360264245	0.00554537445269516	2.2560691226891136	True
+GO:0090050	positive regulation of cell migration involved in sprouting angiogenesis	biological_process	8	2	48	0.00087365750971856	0.005217844161491538	2.2825088958787574	True
+GO:0034446	substrate adhesion-dependent cell spreading	biological_process	4	2	45	0.000768082131138688	0.004734228651716041	2.3247507705344206	True
+GO:0051402	neuron apoptotic process	biological_process	4	2	44	0.0007343623684390988	0.004558837355328025	2.3411459017536336	True
+GO:0035987	endodermal cell differentiation	biological_process	4	2	42	0.0006691386085021545	0.004280282897555374	2.3685275261300474	True
+GO:0001953	negative regulation of cell-matrix adhesion	biological_process	6	2	41	0.0006376371903220228	0.00415183313397648	2.381760109506783	True
+GO:0003197	endocardial cushion development	biological_process	5	2	40	0.0006068778020673812	0.0039966249170368985	2.398306608333541	True
+GO:0042056	chemoattractant activity	molecular_function	4	2	38	0.0005475902912513959	0.0037339621434937706	2.4278300894279425	True
+GO:0014074	response to purine-containing compound	biological_process	5	3	173	0.0005181934601388053	0.0035960806621527347	2.44417057535512	True
+GO:0022408	negative regulation of cell-cell adhesion	biological_process	5	3	173	0.0005181934601388053	0.0035960806621527347	2.44417057535512	True
+GO:0031904	endosome lumen	cellular_component	4	2	36	0.0004912864441108418	0.0034589761024389353	2.461052438452465	True
+GO:0050919	negative chemotaxis	biological_process	4	2	36	0.0004912864441108418	0.0034589761024389353	2.461052438452465	True
+GO:0033280	response to vitamin D	biological_process	4	2	35	0.00046425664154328504	0.003336483415572488	2.4767110295254096	True
+GO:0043588	skin development	biological_process	4	4	395	0.0004374410934207313	0.00316073152473936	2.5002123919415093	True
+GO:0042581	specific granule	cellular_component	4	3	161	0.00042023652843745546	0.003097232626611374	2.5090261744754536	True
+GO:0001890	placenta development	biological_process	4	3	157	0.0003904662308102708	0.0029025215097141163	2.537224553151651	True
+GO:0001569	branching involved in blood vessel morphogenesis	biological_process	4	2	32	0.00038767134311827085	0.0028941670960381254	2.5384763983060044	True
+GO:0035909	aorta morphogenesis	biological_process	6	2	32	0.00038767134311827085	0.0028941670960381254	2.5384763983060044	True
+GO:0050820	positive regulation of coagulation	biological_process	5	2	32	0.00038767134311827085	0.0028941670960381254	2.5384763983060044	True
+GO:0090023	positive regulation of neutrophil chemotaxis	biological_process	7	2	32	0.00038767134311827085	0.0028941670960381254	2.5384763983060044	True
+GO:0007435	salivary gland morphogenesis	biological_process	5	2	31	0.00036364862993550155	0.0027992863424368387	2.5529526747457973	True
+GO:0030194	positive regulation of blood coagulation	biological_process	5	2	31	0.00036364862993550155	0.0027992863424368387	2.5529526747457973	True
+GO:0007160	cell-matrix adhesion	biological_process	4	3	148	0.0003285355753984788	0.0026589888625708656	2.5752834817485932	True
+GO:0017134	fibroblast growth factor binding	molecular_function	4	2	27	0.00027512127235805936	0.002301980887556323	2.6378982864678613	True
+GO:0001968	fibronectin binding	molecular_function	3	2	27	0.00027512127235805936	0.002301980887556323	2.6378982864678613	True
+GO:0031293	membrane protein intracellular domain proteolysis	biological_process	6	2	26	0.00025488686837686067	0.002185465623904568	2.6604560203186756	True
+GO:0005112	Notch binding	molecular_function	4	2	26	0.00025488686837686067	0.002185465623904568	2.6604560203186756	True
+GO:0043534	blood vessel endothelial cell migration	biological_process	6	2	26	0.00025488686837686067	0.002185465623904568	2.6604560203186756	True
+GO:0001701	in utero embryonic development	biological_process	6	4	340	0.00024814226831043867	0.0021706182258266656	2.6634165547108704	True
+GO:0051894	positive regulation of focal adhesion assembly	biological_process	6	2	25	0.00023541406895770243	0.002080291670585411	2.6818757698231455	True
+GO:0050750	low-density lipoprotein particle receptor binding	molecular_function	5	2	24	0.0002167041921773557	0.0019346992827380415	2.7133865293514043	True
+GO:0046697	decidualization	biological_process	3	2	24	0.0002167041921773557	0.0019346992827380415	2.7133865293514043	True
+GO:0030949	positive regulation of vascular endothelial growth factor receptor signaling pathway	biological_process	6	2	24	0.0002167041921773557	0.0019346992827380415	2.7133865293514043	True
+GO:0005161	platelet-derived growth factor receptor binding	molecular_function	5	2	22	0.0001815784870800599	0.001672840104375871	2.776545568365682	True
+GO:0048261	negative regulation of receptor-mediated endocytosis	biological_process	6	2	22	0.0001815784870800599	0.001672840104375871	2.776545568365682	True
+GO:0030225	macrophage differentiation	biological_process	6	2	21	0.00016516530316184857	0.001537990887507106	2.813046237692653	True
+GO:0042474	middle ear morphogenesis	biological_process	4	2	21	0.00016516530316184857	0.001537990887507106	2.813046237692653	True
+GO:2001237	negative regulation of extrinsic apoptotic signaling pathway	biological_process	7	3	111	0.00014085067909054582	0.0013628680233789127	2.8655461980856423	True
+GO:0010544	negative regulation of platelet activation	biological_process	6	2	18	0.00012054032703317816	0.0012067968001240727	2.918365850046851	True
+GO:0002042	cell migration involved in sprouting angiogenesis	biological_process	5	2	17	0.0001072079534977567	0.001105262949155444	2.956534388239495	True
+GO:0051917	regulation of fibrinolysis	biological_process	5	2	16	9.464910667873038e-05	0.0010375459035921583	2.9839926799307945	True
+GO:0010744	positive regulation of macrophage derived foam cell differentiation	biological_process	6	2	16	9.464910667873038e-05	0.0010375459035921583	2.9839926799307945	True
+GO:0035767	endothelial cell chemotaxis	biological_process	5	2	14	7.185732673066123e-05	0.0008466455095068384	3.0722983907208725	True
+GO:0035333	Notch receptor processing, ligand-dependent	biological_process	5	2	13	6.16270645328791e-05	0.0007412366372982404	3.13004312283503	True
+GO:0061564	axon development	biological_process	6	5	462	5.7721571942150885e-05	0.0007140983043128952	3.1462419981931586	True
+GO:0060536	cartilage morphogenesis	biological_process	4	2	12	5.2175670917590054e-05	0.0006643241752931075	3.177619942944036	True
+GO:0051918	negative regulation of fibrinolysis	biological_process	4	2	12	5.2175670917590054e-05	0.0006643241752931075	3.177619942944036	True
+GO:0043687	post-translational protein modification	biological_process	6	5	445	4.834644469938748e-05	0.0006392064291552604	3.194358865526651	True
+GO:0001570	vasculogenesis	biological_process	4	3	75	4.3846758492828373e-05	0.000593301450856084	3.2267245896399253	True
+GO:0048407	platelet-derived growth factor binding	molecular_function	4	2	11	4.350448551933615e-05	0.000593301450856084	3.2267245896399253	True
+GO:0014068	positive regulation of phosphatidylinositol 3-kinase signaling	biological_process	7	3	72	3.879891875231274e-05	0.0005375978182320453	3.269542502476006	True
+GO:1900122	positive regulation of receptor binding	biological_process	6	2	10	3.561484964344923e-05	0.0005146273283499285	3.2885071550933382	True
+GO:0060982	coronary artery morphogenesis	biological_process	6	2	10	3.561484964344923e-05	0.0005146273283499285	3.2885071550933382	True
+GO:0060693	regulation of branching involved in salivary gland morphogenesis	biological_process	5	2	10	3.561484964344923e-05	0.0005146273283499285	3.2885071550933382	True
+GO:0007229	integrin-mediated signaling pathway	biological_process	4	4	201	3.2733057156975435e-05	0.0004887384051369091	3.3109235327056226	True
+GO:0090303	positive regulation of wound healing	biological_process	6	3	67	3.126161659609794e-05	0.00047082712995166645	3.3271385202363457	True
+GO:0050771	negative regulation of axonogenesis	biological_process	7	3	66	2.9880395496599526e-05	0.00045798977876203875	3.339144214303508	True
+GO:0071679	commissural neuron axon guidance	biological_process	5	2	8	2.218560004482021e-05	0.00038045009185770894	3.4197023067052585	True
+GO:0051897	positive regulation of protein kinase B signaling	biological_process	7	4	177	1.9907328215758758e-05	0.0003578655385522482	3.4462801209371423	True
+GO:0002237	response to molecule of bacterial origin	biological_process	4	5	367	1.9311526895289293e-05	0.0003558251551344793	3.4487633526266763	True
+GO:0014911	positive regulation of smooth muscle cell migration	biological_process	7	3	55	1.724840339544739e-05	0.00032735228152160734	3.4849846278631347	True
+GO:0051893	regulation of focal adhesion assembly	biological_process	6	3	55	1.724840339544739e-05	0.00032735228152160734	3.4849846278631347	True
+GO:0097475	motor neuron migration	biological_process	5	2	7	1.664867730284836e-05	0.00032735228152160734	3.4849846278631347	True
+GO:0048842	positive regulation of axon extension involved in axon guidance	biological_process	7	2	7	1.664867730284836e-05	0.00032735228152160734	3.4849846278631347	True
+GO:0030199	collagen fibril organization	biological_process	4	3	52	1.4556921828353462e-05	0.000303766127791665	3.5174606548751606	True
+GO:0032496	response to lipopolysaccharide	biological_process	4	5	340	1.3382950270909389e-05	0.00028616382554586494	3.543385267007975	True
+GO:0061041	regulation of wound healing	biological_process	6	4	159	1.3062973865408253e-05	0.0002828133841860887	3.5485000413368852	True
+GO:0010951	negative regulation of endopeptidase activity	biological_process	7	5	333	1.2108286852185493e-05	0.00026997526936615784	3.56867601683999	True
+GO:0002020	protease binding	molecular_function	4	4	142	8.36294421058352e-06	0.00020117526906570358	3.6964254091451747	True
+GO:0090259	regulation of retinal ganglion cell axon guidance	biological_process	6	2	5	7.936975967650758e-06	0.00019638346251387305	3.706895087024454	True
+GO:0038189	neuropilin signaling pathway	biological_process	4	2	4	4.764898428469157e-06	0.00013529187013292752	3.8687282999470183	True
+GO:0070374	positive regulation of ERK1 and ERK2 cascade	biological_process	8	5	263	3.862634625635036e-06	0.0001173698802035067	3.9304433386905653	True
+GO:0048237	rough endoplasmic reticulum lumen	cellular_component	5	2	3	2.3838064820370636e-06	8.095593778212145e-05	4.091751292044176	True
+GO:0002053	positive regulation of mesenchymal cell proliferation	biological_process	6	3	28	2.190274897914425e-06	7.939351005670582e-05	4.100214997091254	True
+GO:0061844	antimicrobial humoral immune response mediated by antimicrobial peptide	biological_process	4	4	102	2.246121242943756e-06	7.939351005670582e-05	4.100214997091254	True
+GO:0008083	growth factor activity	molecular_function	4	5	230	2.007499253058394e-06	7.726641569549196e-05	4.112009233733673	True
+GO:0045665	negative regulation of neuron differentiation	biological_process	7	5	224	1.7637474184483888e-06	7.104210531982812e-05	4.1484841768010225	True
+GO:0034361	very-low-density lipoprotein particle	cellular_component	4	3	24	1.3565791716431132e-06	6.52665312579409e-05	4.185309468284056	True
+GO:0007599	hemostasis	biological_process	4	6	369	9.378622809478802e-07	5.076179595630402e-05	4.294463020932836	True
+GO:0061045	negative regulation of wound healing	biological_process	6	4	76	6.895509286812843e-07	3.981007361586615e-05	4.4000070193278615	True
+GO:0031093	platelet alpha granule lumen	cellular_component	5	5	67	4.198079632740862e-09	7.271073923907173e-07	6.1384014399274776	True
+GO:0002576	platelet degranulation	biological_process	5	6	128	1.7665131237980118e-09	3.8245009130226953e-07	6.417425231062601	True
+GO:0005796	Golgi lumen	cellular_component	4	6	104	5.019552861519944e-10	1.2419807937360774e-07	6.905885120132815	True
+GO:0008201	heparin binding	molecular_function	3	14	195	9.835214061862483e-24	1.703459075514582e-20	19.76866829561045	True
