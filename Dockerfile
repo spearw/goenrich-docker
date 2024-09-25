@@ -17,6 +17,6 @@ COPY environment.yaml /
 RUN conda env create --quiet --name ${ENV_NAME} --file /environment.yaml -y && \
   conda clean -a
 
-# Add conda installation and root dirs to PATH (instead of doing
-# 'conda activate' or specifiying path to tool)
+# Add conda installation directory to PATH (eliminates need to
+# activate required conda environment when using Nextflow)
 ENV PATH="/opt/conda/envs/$ENV_NAME/bin:$PATH"
