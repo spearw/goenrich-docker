@@ -8,10 +8,11 @@ class TestGOEnrichContainer(unittest.TestCase):
     def test_consistency(self):
 
         # Set up variables
-        db_path = "./test_data/goenrichDB_human.pickle"
-        query_path = "./test_data/query.tsv"
-        expected_output_path = "./test_data/expected_output.tsv"
-        output_path = "./test_data/output.tsv"
+        data_path = "/root/tests/test_data"
+        db_path = f"{data_path}/goenrichDB_human.pickle"
+        query_path = f"{data_path}/query.tsv"
+        expected_output_path = f"{data_path}/expected_output.tsv"
+        output_path = f"{data_path}/output.tsv"
 
         # Run GOEnrich
         subprocess.run(["goenrich",
