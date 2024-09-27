@@ -8,7 +8,7 @@ class TestGOEnrichContainer(unittest.TestCase):
     def test_consistency(self):
 
         # Set up variables
-        data_path = "/root/tests/test_data"
+        data_path = "./tests/test_data"
         db_path = f"{data_path}/goenrichDB_human.pickle"
         query_path = f"{data_path}/query.tsv"
         expected_output_path = f"{data_path}/expected_output.tsv"
